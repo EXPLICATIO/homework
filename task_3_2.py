@@ -15,4 +15,5 @@ def join_func(name, surname, year, city, email, telephone):
         return
 
 
-print(join_func(name = name, surname = surname,  year = year, city = city, email = email, telephone = telephone))
+print(join_func(name = 'name', surname = 'surname',  year = 2000, city = 'city', email = 'email@domil.xyz', telephone = 785545654154))
+"""Ничего не получается...."""
